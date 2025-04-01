@@ -70,6 +70,8 @@ You can adjust the confidence threshold by modifying the `thr` variable in the `
 ## Results
 
 The project includes sample results demonstrating pose detection on images and videos with varying confidence thresholds. The results highlight the trade-off between precision and recall when adjusting the confidence threshold.
+![image](https://github.com/user-attachments/assets/aa95096c-a3c0-48cb-8f02-973e1aea624b)
+
 
 ## Contributing
 
